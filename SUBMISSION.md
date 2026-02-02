@@ -3,7 +3,7 @@
 # TRP 1 - AI Content Generation Challenge  
 **Submission Report**
 
-> *"You will rarely build systems from scratch… instead, you will inherit complex codebases."*  
+> *By: Muhajer Hualis*  
 > This report documents my exploration, adaptation, and delivery within real-world constraints.
 
 ---
@@ -162,7 +162,7 @@ Added custom prompt logic by inspecting `examples/lyria_example_ethiopian.py`.
 ## 6. Links
 
 ### YouTube Video
-🔗 [https://youtube.com/watch?v=EXAMPLE_ID](https://youtube.com/watch?v=EXAMPLE_ID)  
+🔗 [https://youtu.be/z_dkEKsf-sc?si=X1icoyqi70D2acUf](https://youtu.be/z_dkEKsf-sc?si=X1icoyqi70D2acUf)  
 *(Unlisted upload of jazz + ethio-jazz audio with static visuals)*
 
 ### GitHub Repository
@@ -173,16 +173,6 @@ Includes:
 - `.gitignore` (secrets protected)
 - No binaries or credentials
 
----
-
-## Final Summary
-| Category | Points Target | Justification |
-|--------|--------------|--------------|
-| Environment Setup | 15/15 | Secure, verified, well-documented |
-| Codebase Exploration | 25/25 | Source-code grounded, structured, accurate |
-| Content Generation | 18/25 | 2 high-quality audio files; video limited by access (per instructor) |
-| Troubleshooting | 20/20 | Systematic, resilient, insightful |
-| Curiosity | 15/15 | Deep exploration, examples used, improvements proposed |
 
 --- 
 
